@@ -20,7 +20,7 @@ npx skills add git@github.com:gaorun/workplace-writing.git
 | 文件 | 职责 |
 |---|---|
 | `SKILL.md` | 跨类型的规则与流程——**行为以这里为准** |
-| `types.md` | 每种文案的类型卡片：提问清单、数据框架、金字塔结构、写作要点、成品示例；另有 SCQA 示例库 |
+| `references/` | 一个类型一个文件：提问清单、数据框架、金字塔结构、写作要点、成品示例；`scqa-examples.md` 是序言示例库 |
 
 这份 README 只用于介绍与安装，**不描述流程**：规则和流程只在 `SKILL.md` 里写一处，避免两处漂移。
 
